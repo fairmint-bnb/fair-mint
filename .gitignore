@@ -1,0 +1,5 @@
+# Foundry build outputs and dependencies
+/out/
+/cache/
+/broadcast/
+/lib/
